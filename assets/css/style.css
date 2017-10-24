@@ -242,19 +242,21 @@ input[type=submit] {
     margin-bottom: 15px;
   }
   #masthead {
-    position: relative;
     padding-left: 20px;
     padding-right: 20px;
+    font-family: "times new roman", serif;
   }
 
   #main-container {
     width: 100%;
     max-width: 720px;
+    font-family: "times new roman", serif;
 
   }
 
   .main-section {
     max-width: 400px;
+    font-family: "times new roman", serif;
   }
 
   .auth-image {
@@ -262,17 +264,20 @@ input[type=submit] {
     max-width: 360px;
     height: auto;
     margin-bottom: 20px;
+    font-family: "times new roman", serif;
   }
 
   .main-section, 
   .container,
   .sidebar {
     width: 100%;
+    font-family: "times new roman", serif;
   }
 
   .sidebar {
     float:right;
     max-width: 270px;
+    font-family: "times new roman", serif;
   }
 
   .social {
@@ -280,10 +285,12 @@ input[type=submit] {
   height: 50px;
   margin-top: 8px;
   margin-right: 5px;
+  font-family: "times new roman", serif;
 }
 
   #connect {
     padding-bottom: 20px;
+    font-family: "times new roman", serif;
   }
 
 }
@@ -292,22 +299,25 @@ input[type=submit] {
 @media screen and (max-width: 768px) {
   h3 {
     margin-bottom: 25px;
+    font-family: "times new roman", serif;
   }
   #masthead {
-    position: relative;
     padding-left: 28px;
     padding-right: 28px;
+    font-family: "times new roman", serif;
   }
   
   #main-container {
     width: 100%;
     padding: 20px;
     max-width: 768px;
+    font-family: "times new roman", serif;
   }
 
   .auth-image {
     width: 350;
     height: auto;
+    font-family: "times new roman", serif;
   }
 
   .main-section, 
@@ -315,11 +325,14 @@ input[type=submit] {
   .sidebar {
     width: 100%;
     max-width: 768px;
+    font-family: "times new roman", serif;
   }
 
   .sidebar {
     float:left;
     max-width: 768px;
+    padding: 0px;
+    font-family: "times new roman", serif;
   }
 
 }
@@ -327,7 +340,7 @@ input[type=submit] {
 
 @media screen and (max-width: 640px) {
   #masthead {
-    position: relative;
+    font-family: "times new roman", serif;
   }
 
   #logo {
